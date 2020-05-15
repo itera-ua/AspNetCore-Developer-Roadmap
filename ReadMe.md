@@ -103,7 +103,7 @@
 
 
 
-## Essential tools 
+## Essential knowledge 
 1. Git 
     > *Web* <https://git-scm.com/> [&#9733;]  
     > *Book* [Pro Git](https://books.google.com.ua/books?id=jVYnCgAAQBAJ) [&#9733;]
