@@ -2,7 +2,7 @@
 [Go to full map](./ReadMe.md)
 
 # Mind map 
-Try [interactive map](https://transno.com/colla/7pmoJwupNPy#mindmap)
+Try [interactive map](https://transno.com/doc3v2Si5q0z3y#mindmap)
 ![Mind Map](./MindMap.easy.jpg)
 
 # Roadmap
