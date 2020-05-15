@@ -1,38 +1,35 @@
 ## Legend
 
-<span style="color:blue">&#9632;</span> Basics
-<span style="color:green">&#9632;</span> Easy
-<span style="color:orange">&#9632;</span> Moderate
-<span style="color:red">&#9632;</span> Advanced
+[&#9733; Basics]
+[&#9733;&#9733;&#9733; Moderate]
+[&#9733;&#9733;&#9733;&#9733; Advanced]
 
 ## Resources
 
 1. Main
-    1. C# <span style="color:green">&#9632;</span>
-        [Official](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-        [Pluralsight](https://www.pluralsight.com/paths/csharp)
-    1. .Net Core
+    1. C# [Official](https://docs.microsoft.com/en-us/dotnet/csharp/) [Pluralsight](https://www.pluralsight.com/paths/csharp) [&#9733;]
+    1. .Net Core [&#9733;]
     
-1. Databases 
-    1. SQL Fundamentals <span style="color:green">&#9632;</span> [Pluralsight Search](https://www.pluralsight.com/search?q=sql)
-        1. CRUD <span style="color:green">&#9632;</span>
-        1. DML <span style="color:green">&#9632;</span>
-        1. Theory <span style="color:green">&#9632;</span>
-            1. Indexes <span style="color:yellow">&#9632;</span>
-            1. Transactions <span style="color:yellow">&#9632;</span>
-    1. Servers <span style="color:green">&#9632;</span>
-        1. SQL Server <span style="color:green">&#9632;</span> [Official site](https://www.microsoft.com/sql-server/sql-server-2017)
-    1. Cloud Databases <span style="color:maroon">&#9632;</span>
-        1. CosmosDB <span style="color:maroon">&#9632;</span> [Official site](https://docs.microsoft.com/azure/cosmos-db)
-        1. DynamoDB <span style="color:maroon">&#9632;</span> [Official site](https://aws.amazon.com/dynamodb/)
+1. Databases
+    1. SQL Fundamentals [Pluralsight Search](https://www.pluralsight.com/search?q=sql) [&#9733;]
+        1. CRUD [&#9733;]
+        1. DML [&#9733;]
+        1. Theory
+            1. Indexes [&#9733;&#9733;]
+            1. Transactions [&#9733;&#9733;]
+    1. Servers >
+        1. SQL Server [Official site](https://www.microsoft.com/sql-server/sql-server-2017) [&#9733;&#9733;]
+    1. Cloud Databases
+        1. CosmosDB [Official site](https://docs.microsoft.com/azure/cosmos-db) [&#9733;&#9733;]
+        1. DynamoDB [Official site](https://aws.amazon.com/dynamodb/) [&#9733;&#9733;]
     1. NoSQL
         1. MongoDB [Official site](https://docs.microsoft.com/aspnet/core/tutorials/first-mongo-app)
         1. Redis [Official site](https://redis.io/)   
 
-1. General Development Skills <span style="color:green">&#9632;</span>
-    1. Object Oriented Design <span style="color:green">&#9632;</span>
-        1. OOP <span style="color:green">&#9632;</span>
-        1. Design Patterns <span style="color:green">&#9632;</span>
+1. General Development Skills 
+    1. Object Oriented Design
+        1. OOP [&#9733;&#9733;&#9733; Moderate]
+        1. Design Patterns [&#9733;&#9733;&#9733; Moderate]
             1. [Decorator](https://www.dofactory.com/net/decorator-design-pattern)
             1. [Strategy](https://www.dofactory.com/net/strategy-design-pattern)
             1. [Observer](https://www.dofactory.com/net/observer-design-pattern)
