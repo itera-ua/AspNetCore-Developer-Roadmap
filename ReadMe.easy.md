@@ -1,5 +1,5 @@
 # Mind map
-![Mind map](./mindmap.easy.jpg)
+![Mind Map](./MindMap.easy.jpg)
 
 # Fullmap
 [Go to full map](./ReadMe.md)
