@@ -1,7 +1,8 @@
 # Fullmap
 [Go to full map](./ReadMe.md)
 
-# Mind map [Interactive map](https://transno.com/colla/7pmoJwupNPy)
+# Mind map 
+Try [interactive map](https://transno.com/colla/7pmoJwupNPy#mindmap)
 ![Mind Map](./MindMap.easy.jpg)
 
 # Roadmap
