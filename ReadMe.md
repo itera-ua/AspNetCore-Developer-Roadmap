@@ -65,7 +65,8 @@
     
     
 ## Security
-1. OWASP [Top 10 Vulnerabilities](https://owasp.org/www-project-top-ten/)
+1. OWASP 
+    > *Top 10 * <https://owasp.org/www-project-top-ten/> [&#9733;&#9733;]
 
 
 
