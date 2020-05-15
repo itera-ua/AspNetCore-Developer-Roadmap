@@ -2,9 +2,9 @@
 ![Mind map](./MindMap.jpg)
 # Legend  
 
-[&#9733;] Basics  
-[&#9733;&#9733;] Moderate      
-[&#9733;&#9733;&#9733;] Advanced  
+[&#9733;] [Basics](./ReadMe.easy.md) 
+[&#9733;&#9733;] [Moderate](./ReadMe.moderate.md)   
+[&#9733;&#9733;&#9733;] [Advanced]((./ReadMe.advanced.md) )
 [&#9734;] Optional  
 
 # Roadmap
