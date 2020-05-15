@@ -2,7 +2,7 @@
 ![Mind map](./mindmap.easy.jpg)
 
 # Fullmap
-![Go to full map](./readme.md)
+![Go to full map](./ReadMe.md)
 
 # Roadmap
 ## Core 
