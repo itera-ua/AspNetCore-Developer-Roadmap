@@ -53,7 +53,30 @@
     > *Web* <https://redis.io/>  
 
 
+## Essential knowledge 
+1. Git 
+    > *Web* <https://git-scm.com/> [&#9733;]  
+    > *Book* [Pro Git](https://books.google.com.ua/books?id=jVYnCgAAQBAJ) [&#9733;]
+1. HTTP(S)
+    > *Wiki* <https://en.wikipedia.org/wiki/HTTPS>
+1. Powershell (Command line)
+    > *Web* <https://microsoft.com/powershell>  
+    
+    
+    
+## Security
+1. OWASP [Top 10 Vulnerabilities](https://owasp.org/www-project-top-ten/)
 
+
+
+## Frameworks
+1. Entity Framework 
+    > [Pluralsight](https://www.pluralsight.com/search?q=entity%20framework%20core)
+1. ASP.NET Core  
+    > [Pluralsight](https://www.pluralsight.com/search?q=asp.net%20core)         
+
+
+    
 ## Architecture
 
 ### Architecture patterns
@@ -93,24 +116,8 @@
 
 
 
-## Security
-1. OWASP [Top 10 Vulnerabilities](https://owasp.org/www-project-top-ten/)
-
-
-
 ## General Development Skills
 1. Algorithms & Data sctructures
-
-
-
-## Essential knowledge 
-1. Git 
-    > *Web* <https://git-scm.com/> [&#9733;]  
-    > *Book* [Pro Git](https://books.google.com.ua/books?id=jVYnCgAAQBAJ) [&#9733;]
-1. HTTP(S)
-    > *Wiki* <https://en.wikipedia.org/wiki/HTTPS>
-1. Powershell (Command line)
-    > *Web* <https://microsoft.com/powershell>  
 
 
 
@@ -125,14 +132,6 @@
 1. Agile (Scrum)
 1. AzureDevOps
 1. Jira
-
-
-
-## Frameworks
-1. Entity Framework 
-    > [Pluralsight](https://www.pluralsight.com/search?q=entity%20framework%20core)
-1. ASP.NET Core  
-    > [Pluralsight](https://www.pluralsight.com/search?q=asp.net%20core)         
 
 
 
