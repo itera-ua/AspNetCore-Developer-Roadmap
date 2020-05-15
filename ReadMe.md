@@ -1,3 +1,5 @@
+# Mind map
+![Mind map](./MindMap.jpg)
 # Legend  
 
 [&#9733;] Basics  
