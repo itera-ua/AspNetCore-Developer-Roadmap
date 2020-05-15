@@ -1,8 +1,8 @@
-# Mind map
-![Mind Map](./MindMap.easy.jpg)
-
 # Fullmap
 [Go to full map](./ReadMe.md)
+
+# Mind map
+![Mind Map](./MindMap.easy.jpg)
 
 # Roadmap
 ## Core 
@@ -12,8 +12,6 @@
        
 2. .Net Core
     > *Playground* <https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/1>
-
-
 
 ## Object Oriented Design
 
