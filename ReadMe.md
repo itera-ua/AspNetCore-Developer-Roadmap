@@ -63,7 +63,6 @@
     > *Web* <https://microsoft.com/powershell>  
     
     
-    
 ## Security
 1. OWASP 
     > *Top 10* <https://owasp.org/www-project-top-ten/> [&#9733;&#9733;]
@@ -163,3 +162,16 @@
 ### Integration Testing
 ### E2E Testing
 1. [Selenium](https://www.automatetheplanet.com/webdriver-dotnetcore2/)
+
+
+# More information
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
