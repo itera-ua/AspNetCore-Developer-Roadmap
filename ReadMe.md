@@ -2,8 +2,8 @@
 [![Mind map](./MindMap.jpg)](https://transno.com/doc/6bf8Xh_ONpy#mindmap)
 # Legend  
 
-[&#9733;] [Basics](./ReadMe.easy.md) 
-[&#9733;&#9733;] [Moderate]     
+[&#9733;] [Basics](./ReadMe.easy.md)   
+[&#9733;&#9733;] [Moderate]       
 [&#9733;&#9733;&#9733;] [Advanced]   
 [&#9734;] Optional  
 
