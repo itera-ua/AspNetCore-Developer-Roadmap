@@ -1,5 +1,5 @@
 # Mind map
-![Mind map](./MindMap.jpg)
+[![Mind map](./MindMap.jpg)](https://transno.com/doc/6bf8Xh_ONpy#mindmap)
 # Legend  
 
 [&#9733;] [Basics](./ReadMe.easy.md)     
