@@ -37,7 +37,7 @@
 
 ### SQL Fundamentals 
 <details>
-  <summary>Resources</summary>
+  <summary>Collapsable section with resource</summary>
   
   #### To be added
   1. to be added
