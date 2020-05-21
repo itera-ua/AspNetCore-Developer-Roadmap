@@ -36,7 +36,15 @@
 ## Databases
 
 ### SQL Fundamentals 
-> recources to be added 
+<details>
+  <summary>Resources</summary>
+  
+  ## To be added
+  1. to be added
+  2. to be added 2
+     * With some
+     * Sub bullets
+</details> 
 
 ### Servers
 1. MS SQL Server
@@ -164,14 +172,5 @@
 1. [Selenium](https://www.automatetheplanet.com/webdriver-dotnetcore2/)
 
 
-# More information
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+
 
